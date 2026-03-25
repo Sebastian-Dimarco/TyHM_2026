@@ -19,7 +19,7 @@ Mediación de Materiales TyHM 2026
 | Calculito |  | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   |
 | Clasica y moderna |  | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  |
 | Concejo de sabios |  |//	Pedro, Spongia,	Joaquín Spongia, Facundo Perea, García 	Leslie Rocío ,//	Joaquín  |
-| Dybala a Boca |  | Santiago Joaquín Peña, Sebastian Ezequiel ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
+| Dybala a Boca |https://github.com/santiago-pena2003/entrega-modulo-1?tab=readme-ov-file  | Santiago Joaquín Peña, Sebastian Ezequiel ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
 | Error 404 |  | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  |
 | Gordillos Siuu |  | .	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste |
 | JIBS |  |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   |
